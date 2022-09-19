@@ -1,0 +1,9 @@
+coordinates:
+  name: external-dns-management
+  namespace: gardener
+  provider: github
+  type: git
+revisions:
+  ae804dcb1b3a49ded12169c694130993c68ced9f:
+    licensed:
+      declared: AAL AND ADSL AND AFL-1.1
