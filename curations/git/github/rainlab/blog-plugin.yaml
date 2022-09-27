@@ -1,0 +1,9 @@
+coordinates:
+  name: blog-plugin
+  namespace: rainlab
+  provider: github
+  type: git
+revisions:
+  c77ac286e4ed7ecf0b8a7f3768d98444d698844a:
+    licensed:
+      declared: MIT AND 0BSD AND 0BSD
