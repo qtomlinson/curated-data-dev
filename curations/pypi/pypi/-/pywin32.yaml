@@ -1,0 +1,8 @@
+coordinates:
+  name: pywin32
+  provider: pypi
+  type: pypi
+revisions:
+  '304':
+    licensed:
+      declared: PSF-2.0
