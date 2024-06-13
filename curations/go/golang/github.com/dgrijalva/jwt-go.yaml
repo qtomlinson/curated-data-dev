@@ -1,0 +1,9 @@
+coordinates:
+  name: jwt-go
+  namespace: github.com%2fdgrijalva
+  provider: golang
+  type: go
+revisions:
+  v3.2.0+incompatible:
+    described:
+      releaseDate: '2022-07-13'
