@@ -1,0 +1,13 @@
+coordinates:
+  name: SwiftCommonTools
+  provider: cocoapods
+  type: pod
+revisions:
+  0.1.1:
+    licensed:
+      declared: MIT-0
+  0.1.2:
+    described:
+      releaseDate: '2018-05-05'
+    licensed:
+      declared: MIT-0
