@@ -1,6 +1,7 @@
 coordinates:
   name: redie
   provider: npmjs
+  namespace: ""
   type: npm
 revisions:
   0.1.0:
