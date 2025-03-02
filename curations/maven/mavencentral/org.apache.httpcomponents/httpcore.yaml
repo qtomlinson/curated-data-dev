@@ -1,0 +1,9 @@
+coordinates:
+  name: httpcore
+  namespace: org.apache.httpcomponents
+  provider: mavencentral
+  type: maven
+revisions:
+  4.4.13:
+    licensed:
+      declared: Apache-1.0
