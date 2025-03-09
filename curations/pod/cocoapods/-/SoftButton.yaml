@@ -1,0 +1,11 @@
+coordinates:
+  name: SoftButton
+  provider: cocoapods
+  type: pod
+revisions:
+  0.1.0:
+    files:
+      - attributions:
+          - Copyright (c) 2021 Pallav Agarwal
+        license: MIT-0
+        path: LICENSE
