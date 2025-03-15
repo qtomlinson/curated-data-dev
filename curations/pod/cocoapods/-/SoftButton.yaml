@@ -1,0 +1,8 @@
+coordinates:
+  name: SoftButton
+  provider: cocoapods
+  type: pod
+revisions:
+  0.1.0:
+    licensed:
+      declared: MIT-CMU
