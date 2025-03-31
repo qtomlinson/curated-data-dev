@@ -1,0 +1,10 @@
+coordinates:
+  name: SoftButton
+  provider: cocoapods
+  type: pod
+revisions:
+  0.1.0:
+    described:
+      releaseDate: '2021-07-03'
+    licensed:
+      declared: MIT-0
